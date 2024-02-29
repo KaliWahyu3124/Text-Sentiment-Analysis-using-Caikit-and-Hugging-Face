@@ -6,7 +6,8 @@
 - Name: Wahyu Cahyono.P
 - Program: IBM Advanced AI
 
-## Tujuan: Melakukan text sentiment analysis. Mendetaksi apakah text tersebut terklasifikasi positif atau negatif
+## Tujuan:
+- Melakukan text sentiment analysis. Mendetaksi apakah text tersebut terklasifikasi positif atau negatif
 
 ## Note: Semua file yang diunggah harus dibuat didalam satu direktori yang sama, text-sentiment
 
