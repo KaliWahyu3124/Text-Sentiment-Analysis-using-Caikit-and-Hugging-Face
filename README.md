@@ -1,6 +1,6 @@
 # Text Sentiment Analysis using Caikit and Hugging Face
 
-## Author: @KaliWahyu3124
+## Author: Unknown
 
 ## Mentee:
 - Name: Wahyu Cahyono.P
